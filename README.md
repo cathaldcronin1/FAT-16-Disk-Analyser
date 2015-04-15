@@ -18,6 +18,8 @@ The requirements and goals of this assignment were to develop a small forensic t
   - File Size.
   - First 16 characters of content within the deleted file.
 
+For this project we were given a sample disk image file to analyse, the output was as follows.
 ![alt tag](http://i.imgur.com/71dOt42.png)
 
+This was a second disk image used to test that the program worked for different disk images
 ![alt tag](http://i.imgur.com/W3Na3W2.png)
