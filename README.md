@@ -17,3 +17,7 @@ The requirements and goals of this assignment were to develop a small forensic t
 * Recover the first deleted file in the volume and retrieve the following details about it: o File Name.
   - File Size.
   - First 16 characters of content within the deleted file.
+
+![alt tag](http://i.imgur.com/71dOt42.png)
+
+![alt tag](http://i.imgur.com/W3Na3W2.png)
