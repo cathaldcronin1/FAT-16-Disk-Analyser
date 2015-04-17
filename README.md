@@ -1,7 +1,10 @@
 # diskAnalyser
 
 The aim of this project was to learn more about forensic tools and the basic underlying concepts that are involved with developing such systems as well as how a professional might perform initial analysis of the disk drive or other storage media.
+
 The requirements and goals of this assignment were to develop a small forensic tool which analyses a disk drive for the following:
+
+_Note: This was specifically for a FAT-16 File System._
 
 * Partition Information:
  - The number of partitions.
